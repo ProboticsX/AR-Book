@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Datafiles/Scenes/ARBOOKSCENE.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
